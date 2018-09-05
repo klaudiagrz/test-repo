@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/klaudiagrz/test-repo/tree/master.svg?style=svg)](https://circleci.com/gh/klaudiagrz/test-repo/tree/master)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/klaudiagrz/test-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
